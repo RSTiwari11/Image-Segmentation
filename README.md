@@ -1,2 +1,3 @@
 # Image-Segmentation
-Exploration of library
+
+This Is exploration of the existing library
